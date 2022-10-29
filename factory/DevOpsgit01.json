@@ -1,0 +1,9 @@
+{
+	"name": "DevOpsgit01",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "974a7623-ad3c-48f2-9bfd-ed5c4c471f1a",
+		"tenantId": "1e94ccd0-491b-45b6-b4d5-9d20732d7d8d"
+	}
+}
